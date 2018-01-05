@@ -1,0 +1,18 @@
+body {
+    background-color: #ccc
+}
+
+h1 {
+	color: #eee;
+	font-family: verdana;
+    text-align: center;
+}
+
+h2 {
+	color: #555;
+}
+
+p {
+	color: #777;
+    font-size: 1.1em;
+}
